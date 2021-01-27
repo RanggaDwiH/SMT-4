@@ -1,0 +1,17 @@
+let angka = 10;
+let kata = "saya belajar js";
+let pecahan = 2.5;
+console.log(angka);
+console.log(typeof angka);
+console.log(1/0);
+console.log("js" / 2+5);
+let isi="belajar";
+console.log(isi+kata);
+console.log(`${angka} ${kata} ${isi}`);
+console.log("SMK" + angka + kata + " " + isi);
+let kondisi = true;
+console.log(kondisi);
+let age = null;
+console.log(age);
+let kosong;
+console.log(kosong);

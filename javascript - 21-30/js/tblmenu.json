@@ -1,0 +1,20 @@
+[{
+        "idmenu": 1,
+        "idkategori": 1,
+        "menu": "Amicia",
+        "harga": 5500,
+        "warna": ["merah", "kuning", "hijau"],
+        "stok": true,
+        "keterangan": null
+
+    },
+    {
+        "idmenu": 2,
+        "idkategori": 1,
+        "menu": "Amicia Michella",
+        "harga": 11000,
+        "warna": ["merah", "kuning"],
+        "stok": true,
+        "keterangan": null
+    }
+]
